@@ -1,0 +1,13 @@
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+secrets/
+private/
+client-data/
+contracts-private/
+banking/
+va-records/
+*.docx
+*.pdf
