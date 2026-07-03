@@ -1,6 +1,16 @@
 # Projects Overview
 
-This index gives recruiters, hiring managers, SCIPP reviewers, and cybersecurity reviewers a fast way to evaluate the portfolio artifacts. All materials are public-safe samples or sanitized summaries. No real client data, private contracts, bank records, VA records, protected health information, Social Security numbers, passwords, API keys, CUI, or confidential evidence are included.
+This index gives contracting officers, prime contractors, teaming partners, cybersecurity reviewers, business-development reviewers, recruiters, and hiring managers a fast way to evaluate the portfolio artifacts. All materials are public-safe samples or sanitized summaries. No real client data, private contracts, bank records, VA records, protected health information, Social Security numbers, passwords, API keys, CUI, private FCI records, or confidential evidence are included.
+
+## Buyer Review Path
+
+Purpose: Provide a fast due-diligence path for evaluating Antonio Branch and A+ Enterprise LLC for GovCon, prime/subcontractor, cybersecurity documentation, GRC support, and automation-enabled operating systems work.
+
+Skills demonstrated: Procurement-safe positioning, reviewer-path design, public-sector communication, SDVOSB / MBE / SDVE context, cybersecurity/GRC artifact organization, public-safe proof packaging.
+
+Reviewer value: Helps buyers and partners quickly understand what A+ Enterprise LLC can support, where the evidence lives, and how the public-safe portfolio connects to cybersecurity readiness, compliance documentation, and operational systems.
+
+Link: [docs/buyer-review-path.md](docs/buyer-review-path.md)
 
 ## CMMC Level 1 Evidence Binder
 
@@ -8,7 +18,7 @@ Purpose: Demonstrate how a small business can organize CMMC Level 1 evidence for
 
 Skills demonstrated: Evidence binder development, CMMC Level 1 readiness, FAR 52.204-21 awareness, access control documentation, incident response evidence planning, audit-ready organization.
 
-Employer value: Shows practical GRC documentation discipline and the ability to turn control requirements into organized evidence that a reviewer can inspect.
+Reviewer value: Shows practical GRC documentation discipline and the ability to turn control requirements into organized evidence that a reviewer can inspect.
 
 Link: [cmmc-level-1/evidence-binder-overview.md](cmmc-level-1/evidence-binder-overview.md)
 
@@ -18,7 +28,7 @@ Purpose: Show how control families can be translated into implementation approac
 
 Skills demonstrated: NIST SP 800-171 control analysis, control family mapping, implementation planning, evidence identification, security assessment support.
 
-Employer value: Demonstrates the ability to connect framework language to real operating practices and reviewable artifacts.
+Reviewer value: Demonstrates the ability to connect framework language to real operating practices and reviewable artifacts.
 
 Link: [cmmc-level-1/nist-800-171-control-mapping.md](cmmc-level-1/nist-800-171-control-mapping.md)
 
@@ -28,7 +38,7 @@ Purpose: Provide procurement-safe language describing A+ Enterprise LLC's CMMC L
 
 Skills demonstrated: Compliance communication, CMMC scope discipline, FCI and CUI distinction, FAR 52.204-21 documentation, public-sector readiness language.
 
-Employer value: Shows judgment in communicating compliance posture accurately, conservatively, and without creating procurement risk.
+Reviewer value: Shows judgment in communicating compliance posture accurately, conservatively, and without creating procurement risk.
 
 Link: [cmmc-level-1/sprs-level-1-summary.md](cmmc-level-1/sprs-level-1-summary.md)
 
@@ -38,7 +48,7 @@ Purpose: Define a professional incident response lifecycle covering preparation,
 
 Skills demonstrated: Incident response planning, severity classification, evidence handling, communication control, lessons learned, response documentation.
 
-Employer value: Shows readiness to support security operations, incident documentation, escalation workflows, and after-action improvement.
+Reviewer value: Shows readiness to support security operations, incident documentation, escalation workflows, and after-action improvement.
 
 Link: [incident-response/incident-response-playbook.md](incident-response/incident-response-playbook.md)
 
@@ -48,7 +58,7 @@ Purpose: Demonstrate how scan output can be converted into an executive-ready vu
 
 Skills demonstrated: Vulnerability management, severity summaries, remediation planning, follow-up verification, risk communication, sample-safe reporting.
 
-Employer value: Shows ability to translate technical findings into accountable action and leadership-readable documentation.
+Reviewer value: Shows ability to translate technical findings into accountable action and leadership-readable documentation.
 
 Link: [vulnerability-management/vulnerability-scan-report-sample.md](vulnerability-management/vulnerability-scan-report-sample.md)
 
@@ -58,7 +68,7 @@ Purpose: Present a dashboard concept for tracking compliance scorecards, evidenc
 
 Skills demonstrated: Compliance automation design, workflow tracking, dashboard planning, evidence lifecycle management, executive reporting.
 
-Employer value: Shows ability to design operating systems that help teams maintain audit readiness and reduce follow-up friction.
+Reviewer value: Shows ability to design operating systems that help teams maintain audit readiness and reduce follow-up friction.
 
 Link: [branchos-compliance-dashboard/dashboard-concept.md](branchos-compliance-dashboard/dashboard-concept.md)
 
@@ -68,16 +78,16 @@ Purpose: Provide a role-aligned certification roadmap across ISC2 Certified in C
 
 Skills demonstrated: Career planning, role mapping, credential sequencing, cybersecurity analyst development, GRC and SOC readiness planning.
 
-Employer value: Shows a disciplined growth plan without overstating certifications that are planned rather than completed.
+Reviewer value: Shows a disciplined growth plan without overstating certifications that are planned rather than completed.
 
 Link: [certification-plan/cyber-certification-plan.md](certification-plan/cyber-certification-plan.md)
 
 ## Cybersecurity / GRC Resume
 
-Purpose: Present Antonio Branch's cybersecurity, GRC, public-sector, and automation experience in an employer-facing markdown resume.
+Purpose: Present Antonio Branch's cybersecurity, GRC, public-sector, and automation experience in a reviewer-facing markdown resume.
 
 Skills demonstrated: Cybersecurity documentation, compliance operations, BranchOS automation, GovCon readiness, public-safe positioning.
 
-Employer value: Gives recruiters a concise view of role alignment, operating experience, public credentials, and portfolio-backed work samples.
+Reviewer value: Gives recruiters and partners a concise view of role alignment, operating experience, public credentials, and portfolio-backed work samples.
 
 Link: [resumes/antonio-branch-cybersecurity-grc-resume.md](resumes/antonio-branch-cybersecurity-grc-resume.md)
