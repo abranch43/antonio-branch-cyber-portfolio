@@ -4,7 +4,23 @@
 
 This page gives contracting officers, prime contractors, cybersecurity reviewers, teaming partners, and business-development reviewers a fast path to evaluate Antonio Branch and A+ Enterprise LLC.
 
-A+ Enterprise LLC is a certified SDVOSB, MBE, and SDVE firm based in Springfield, Missouri. This repository is the public-safe proof layer for cybersecurity readiness, GRC documentation, compliance support, incident response planning, vulnerability management reporting, and automation-enabled operating systems through BranchOS.
+A+ Enterprise LLC is a certified SDVOSB, MBE, and SDVE firm based in Springfield, Missouri. The official website is the company front door for buyer action, capability review, contact, and intake. This repository is the public-safe proof layer for cybersecurity readiness, GRC documentation, compliance support, incident response planning, vulnerability management reporting, and automation-enabled operating systems through BranchOS.
+
+## Search And Review Order
+
+Use this order when reviewing A+ Enterprise LLC from public search results:
+
+1. Official website for company identity, services, contact, capability statement, and intake.
+2. Founder / company profile pages for Antonio Branch and A+ Enterprise LLC identity alignment.
+3. LinkedIn for human trust, current activity, relationship context, and public founder signal.
+4. GitHub portfolio for cybersecurity, GRC, CMMC, NIST, incident response, vulnerability management, and BranchOS proof artifacts.
+5. Third-party biography or public mentions for outside credibility.
+
+## Official Company Front Door
+
+- Official website: https://aplus-enterprise.com
+- Capability statement: https://aplus-enterprise.com/capability-statement
+- Public-safe intake: https://app.aplus-enterprise.com/intake
 
 ## Fast Review Path
 
