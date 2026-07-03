@@ -13,6 +13,16 @@ Antonio Branch is the Founder & CEO of A+ Enterprise LLC, a certified SDVOSB, MB
 
 The portfolio is built around one practical theme: **audit-ready security execution**. It shows how compliance requirements, security operations practices, and public-sector documentation standards can be turned into clear, reviewable artifacts without exposing client data, confidential records, credentials, CUI, or private business information.
 
+## Official Company Front Door
+
+For buyer action, teaming inquiries, capability review, and service requests, start with the official A+ Enterprise website first:
+
+- Official website: https://aplus-enterprise.com
+- Capability statement: https://aplus-enterprise.com/capability-statement
+- Public-safe intake: https://app.aplus-enterprise.com/intake
+
+This GitHub portfolio is the proof layer. The website is the official company front door. Together, they create the public due-diligence path: official company presence, procurement-ready capability statement, public-safe intake, and technical/GRC proof artifacts.
+
 ## Fast Reviewer Path
 
 | Reviewer Type | Start Here | What To Look For |
@@ -61,12 +71,13 @@ See [projects-overview.md](projects-overview.md) for a full artifact index.
 
 ## Review In 10 Minutes
 
-1. Start with the [Buyer Review Path](docs/buyer-review-path.md).
-2. Review the [Projects Overview](projects-overview.md) for the complete artifact map.
-3. Review the [CMMC Level 1 Evidence Binder](cmmc-level-1/evidence-binder-overview.md) for evidence organization and basic safeguarding documentation.
-4. Review the [NIST SP 800-171 Control Mapping](cmmc-level-1/nist-800-171-control-mapping.md) for GRC analysis.
-5. Review the [Incident Response Playbook](incident-response/incident-response-playbook.md) and [Vulnerability Scan Report Sample](vulnerability-management/vulnerability-scan-report-sample.md) for security operations readiness.
-6. Review the [BranchOS Compliance Dashboard Concept](branchos-compliance-dashboard/dashboard-concept.md) to understand the automation-enabled operating model.
+1. Start with the official A+ Enterprise website for company identity, services, capability statement, and intake.
+2. Use the [Buyer Review Path](docs/buyer-review-path.md) for proof-layer due diligence.
+3. Review the [Projects Overview](projects-overview.md) for the complete artifact map.
+4. Review the [CMMC Level 1 Evidence Binder](cmmc-level-1/evidence-binder-overview.md) for evidence organization and basic safeguarding documentation.
+5. Review the [NIST SP 800-171 Control Mapping](cmmc-level-1/nist-800-171-control-mapping.md) for GRC analysis.
+6. Review the [Incident Response Playbook](incident-response/incident-response-playbook.md) and [Vulnerability Scan Report Sample](vulnerability-management/vulnerability-scan-report-sample.md) for security operations readiness.
+7. Review the [BranchOS Compliance Dashboard Concept](branchos-compliance-dashboard/dashboard-concept.md) to understand the automation-enabled operating model.
 
 ## Target Roles And Work Categories
 
