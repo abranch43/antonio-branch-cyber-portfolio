@@ -96,7 +96,7 @@ See [projects-overview.md](projects-overview.md) for a full artifact index.
 
 ## Public CMMC Statement
 
-A+ Enterprise LLC maintains a CMMC Level 1 self-assessment in SPRS under UID S100053243 for FCI/basic safeguarding alignment under FAR 52.204-21. Level 2 readiness is evaluated only where CUI or contract-specific requirements apply.
+As of July 2026, A+ Enterprise LLC maintains a CMMC Level 1 self-assessment in SPRS under UID S100053243 for FCI/basic safeguarding alignment under FAR 52.204-21. This is a self-assessment/readiness statement, not a claim of C3PAO certification. Level 2 readiness is evaluated only where CUI or contract-specific requirements apply.
 
 ## Data Protection Boundary
 
