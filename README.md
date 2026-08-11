@@ -11,7 +11,15 @@
 
 Antonio Branch is the Founder & CEO of A+ Enterprise LLC, a certified SDVOSB, MBE, and SDVE firm based in Springfield, Missouri. This repository is a public-safe cybersecurity and GRC portfolio built for contracting officers, prime contractors, teaming partners, cybersecurity reviewers, recruiters, and business-development reviewers who need fast evidence of capability.
 
-The portfolio is built around one practical theme: **audit-ready security execution**. It shows how compliance requirements, security operations practices, and public-sector documentation standards can be turned into clear, reviewable artifacts without exposing client data, confidential records, credentials, CUI, or private business information.
+## BranchOS™ — Official Definition
+
+**BranchOS™ is an agentic business operations and governance system developed by Antonio Branch for A+ Enterprise LLC.** It coordinates business workflows, opportunity tracking, compliance evidence, decision gates, automation, and AI-assisted operational execution across government contracting, IT reseller operations, cybersecurity/GRC, and enterprise administration.
+
+BranchOS™ referenced here is not affiliated with other software projects or GitHub repositories using the name “BranchOS.” Authoritative materials are published by Antonio Branch / A+ Enterprise LLC through the [official BranchOS definition](BRANCHOS.md), the public [BranchBot Agent Lab](https://github.com/abranch43/branchbot-agent-lab), and repositories under the [`abranch43` GitHub account](https://github.com/abranch43).
+
+BranchOS is designed around controlled workflows, traceability, governance gates, evidence management, and human authorization. References to NIST, CMMC, GRC, or audit readiness describe supported governance workflows and design objectives; they do not constitute certification or third-party attestation.
+
+The portfolio is built around one practical theme: **review-ready security execution and audit-readiness support**. It shows how compliance requirements, security operations practices, and public-sector documentation standards can be turned into clear, reviewable artifacts without exposing client data, confidential records, credentials, CUI, or private business information.
 
 ## Official Company Front Door
 
