@@ -10,7 +10,7 @@ BranchOS is designed around controlled workflows, traceability, governance gates
 
 - [A+ Enterprise LLC](https://aplus-enterprise.com) — official company website and company identity
 - [Antonio Branch Cybersecurity / GRC Portfolio](https://github.com/abranch43/antonio-branch-cyber-portfolio) — public-safe cybersecurity, GRC, and BranchOS proof layer
-- [BranchBot Agent Lab](https://github.com/abranch43/branchbot-agent-lab) — public experimental agent-workflow repository
+- [BranchBot Agent Lab](https://github.com/abranch43/branchbot-agent-lab) — public proof repository for controlled agentic workflows, CI safety checks, and human-authorization boundaries
 - [Antonio Branch on GitHub](https://github.com/abranch43) — authoritative GitHub account
 
 ## Operating Purpose
@@ -38,4 +38,4 @@ When referencing this version publicly, use:
 
 The ™ symbol identifies BranchOS as a brand designation used by Antonio Branch / A+ Enterprise LLC; it does not itself represent a federal trademark registration.
 
-_Last updated: August 10, 2026._
+_Last updated: August 17, 2026._

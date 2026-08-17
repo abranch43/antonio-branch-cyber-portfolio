@@ -6,15 +6,15 @@ This page gives contracting officers, prime contractors, cybersecurity reviewers
 
 A+ Enterprise LLC is a certified SDVOSB, MBE, and SDVE firm based in Springfield, Missouri. The official website is the company front door for buyer action, capability review, contact, and intake. This repository is the public-safe proof layer for cybersecurity readiness, GRC documentation, compliance support, incident response planning, vulnerability management reporting, and automation-enabled operating systems through BranchOS.
 
-## Search And Review Order
+## Public Authority Path
 
 Use this order when reviewing A+ Enterprise LLC from public search results:
 
-1. Official website for company identity, services, contact, capability statement, and intake.
-2. Founder / company profile pages for Antonio Branch and A+ Enterprise LLC identity alignment.
-3. LinkedIn for human trust, current activity, relationship context, and public founder signal.
-4. GitHub portfolio for cybersecurity, GRC, CMMC, NIST, incident response, vulnerability management, and BranchOS proof artifacts.
-5. Third-party biography or public mentions for outside credibility.
+1. [Antonio Branch on GitHub](https://github.com/abranch43) for founder identity and the authoritative public repository set.
+2. [A+ Enterprise LLC](https://aplus-enterprise.com) for company identity, services, capability review, contact, and intake.
+3. [Cybersecurity / GRC Portfolio](https://github.com/abranch43/antonio-branch-cyber-portfolio) for cybersecurity, GRC, CMMC, NIST, incident response, and vulnerability-management proof.
+4. [BranchBot Agent Lab](https://github.com/abranch43/branchbot-agent-lab) for controlled agentic-workflow, CI-safety, and human-authorization evidence.
+5. [BranchOS Public Definition](../BRANCHOS.md) for authoritative attribution, purpose, and public-safe operating boundaries.
 
 ## Official Company Front Door
 

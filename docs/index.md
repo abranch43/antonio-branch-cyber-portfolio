@@ -17,6 +17,8 @@ The repository is public-safe. It does not include real client data, private con
 - [Buyer Review Path](buyer-review-path.md) — best starting point for contracting officers, prime contractors, teaming partners, and business-development reviewers.
 - [Projects Overview](../projects-overview.md) — complete artifact index for cybersecurity, GRC, CMMC, incident response, vulnerability management, and BranchOS compliance automation.
 - [Cybersecurity / GRC Resume](../resumes/antonio-branch-cybersecurity-grc-resume.md) — role-aligned summary of cybersecurity, public-sector, documentation, and automation work.
+- [BranchBot Agent Lab](https://github.com/abranch43/branchbot-agent-lab) — completed public proof for controlled task execution, CI safety checks, and human-authorization gates.
+- [BranchOS Public Definition](../BRANCHOS.md) — authoritative public definition, attribution, and operating boundary.
 
 ## Featured Artifacts
 
