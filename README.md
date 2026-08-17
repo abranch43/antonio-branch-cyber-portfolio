@@ -31,6 +31,8 @@ For buyer action, teaming inquiries, capability review, and service requests, st
 
 This GitHub portfolio is the proof layer. The website is the official company front door. Together, they create the public due-diligence path: official company presence, procurement-ready capability statement, public-safe intake, and technical/GRC proof artifacts.
 
+**Public authority path:** [Antonio Branch on GitHub](https://github.com/abranch43) → [A+ Enterprise LLC](https://aplus-enterprise.com) → [Cybersecurity / GRC Portfolio](https://github.com/abranch43/antonio-branch-cyber-portfolio) → [BranchBot Agent Lab](https://github.com/abranch43/branchbot-agent-lab) → [BranchOS Public Definition](BRANCHOS.md)
+
 ## Fast Reviewer Path
 
 | Reviewer Type | Start Here | What To Look For |
@@ -38,6 +40,7 @@ This GitHub portfolio is the proof layer. The website is the official company fr
 | GovCon buyers / prime contractors | [Buyer Review Path](docs/buyer-review-path.md) | Company positioning, SDVOSB / MBE / SDVE context, procurement-safe compliance language, and evidence discipline |
 | Cybersecurity / GRC reviewers | [Projects Overview](projects-overview.md) | CMMC, NIST SP 800-171, SPRS, incident response, and vulnerability management artifacts |
 | Automation / operations partners | [BranchOS Compliance Dashboard Concept](branchos-compliance-dashboard/dashboard-concept.md) | Evidence tracking, compliance workflows, dashboards, and automation-enabled operating design |
+| Agentic systems reviewers | [BranchBot Agent Lab](https://github.com/abranch43/branchbot-agent-lab) | Controlled task execution, public-safety CI, and human-authorization gates |
 | Hiring / role reviewers | [Cybersecurity / GRC Resume](resumes/antonio-branch-cybersecurity-grc-resume.md) | Cybersecurity, GRC, public-sector, documentation, and automation alignment |
 
 ## What This Portfolio Proves
